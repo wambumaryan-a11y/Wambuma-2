@@ -99,37 +99,37 @@
 
     <!-- Images Section -->
     <div class="container">
-        <h2>My Dishes</h2>
+    <h2>My Dishes</h2>
 
-        <div class="image-row">
+    <div class="image-row">
 
-            <div class="image-box">
-                <img src="https://source.unsplash.com/featured/?pilau" alt="Pilau">
-                <p>Spicy Pilau</p>
-            </div>
-
-            <div class="image-box">
-                <img src="https://source.unsplash.com/featured/?chapati" alt="Chapati">
-                <p>Soft Chapati</p>
-            </div>
-
-            <div class="image-box">
-                <img src="https://source.unsplash.com/featured/?ugali" alt="Ugali">
-                <p>Ugali with Sukuma</p>
-            </div>
-
-            <div class="image-box">
-                <img src="https://source.unsplash.com/featured/?mandazi" alt="Mandazi">
-                <p>Sweet Mandazi</p>
-            </div>
-
-            <div class="image-box">
-                <img src="https://source.unsplash.com/featured/?fried-rice" alt="Fried Rice">
-                <p>Vegetable Fried Rice</p>
-            </div>
-
+        <div class="image-box">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Pilau_Kenya.jpg" alt="Pilau">
+            <p>Spicy Pilau</p>
         </div>
+
+        <div class="image-box">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Chapati_Kenya.jpg" alt="Chapati">
+            <p>Soft Chapati</p>
+        </div>
+
+        <div class="image-box">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Ugali_with_sukuma_wiki.jpg" alt="Ugali">
+            <p>Ugali with Sukuma</p>
+        </div>
+
+        <div class="image-box">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Mandazi.jpg" alt="Mandazi">
+            <p>Sweet Mandazi</p>
+        </div>
+
+        <div class="image-box">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Fried_rice_2.jpg" alt="Fried Rice">
+            <p>Vegetable Fried Rice</p>
+        </div>
+
     </div>
+</div>
 
     <!-- Videos Section -->
     <div class="container">
