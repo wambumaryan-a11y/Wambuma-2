@@ -157,8 +157,7 @@
       
           
 
-    </div>
-</div>
+   
 
     <!-- Videos Section -->
     <div class="container">
@@ -172,8 +171,7 @@
             <iframe src="https://www.youtube.com/embed/3AAdKl1UYZs" 
             title="Chapati Recipe" allowfullscreen></iframe>
 
-            <iframe src="https://www.youtube.com/embed/k3uW1YvVvH4" 
-            title="Fried Rice Recipe" allowfullscreen></iframe>
+           
 
         </div>
     </div>
