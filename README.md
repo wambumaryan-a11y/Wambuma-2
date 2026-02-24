@@ -133,11 +133,22 @@
 <div class="images">
   <img src="https://images.unsplash.com/photo-1604908176997-125f25cc6f3d" alt="pizza">
     <p>Pizza</p>
+</div>
   <img src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c" alt="salad">
+    <p>salad</p>
+    </div>
   <img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38" alt="burger">
+    <p>Burger</p>
+    </div>
   <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836" alt="pasta">
+    <p>Pasta</p>
+    </div>
   <img src="https://images.unsplash.com/photo-1529042410759-befb1204b468" alt="dessert">
+    <p>Dessert</p>
+    </div>
   <img src="https://images.unsplash.com/photo-1604908176997-125f25cc6f3d" alt="chicken">
+  <p>Chicken</p>
+  </div>
   
 
         <div class="image-box">
