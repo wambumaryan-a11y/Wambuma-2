@@ -139,42 +139,21 @@
     </div>
   <img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38" alt="burger">
     <p>Burger</p>
-    </div>
+</div>
   <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836" alt="pasta">
     <p>Pasta</p>
-    </div>
+</div>
   <img src="https://images.unsplash.com/photo-1529042410759-befb1204b468" alt="dessert">
     <p>Dessert</p>
-    </div>
+</div>
   <img src="https://images.unsplash.com/photo-1604908176997-125f25cc6f3d" alt="chicken">
   <p>Chicken</p>
-  </div>
+</div>
   
 
-        <div class="image-box">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Pilau_Kenya.jpg" alt="Pilau">
-            <p>Spicy Pilau</p>
-        </div>
-
-        <div class="image-box">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Chapati_Kenya.jpg" alt="Chapati">
-            <p>Soft Chapati</p>
-        </div>
-
-        <div class="image-box">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Ugali_with_sukuma_wiki.jpg" alt="Ugali">
-            <p>Ugali with Sukuma</p>
-        </div>
-
-        <div class="image-box">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Mandazi.jpg" alt="Mandazi">
-            <p>Sweet Mandazi</p>
-        </div>
-
-        <div class="image-box">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Fried_rice_2.jpg" alt="Fried Rice">
-            <p>Vegetable Fried Rice</p>
-        </div>
+        
+      
+          
 
     </div>
 </div>
