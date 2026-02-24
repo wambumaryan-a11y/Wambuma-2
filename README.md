@@ -95,6 +95,33 @@
     <div class="container">
         <h2>About This Website</h2>
         <p>This website is all about sharing my favorite recipes and cooking ideas.</p>
+        <!-- Line 2: Italic -->
+<p><i>We specialize in fresh, organic, and locally sourced ingredients.</i></p>
+
+<!-- Line 3: Underlined -->
+<p><u>Our chefs prepare every dish with passion and creativity.</u></p>
+
+<!-- Line 4: Superscript -->
+<p>Our restaurant was established in 2026<sup>th</sup> and has served over 10<sup>3</sup> happy customers.</p>
+
+<!-- Line 5: Subscript -->
+<p>Our secret sauce formula includes H<sub>2</sub>O and special spices.</p>
+
+<!-- Line 6: Strike -->
+<p><strike>We used to offer frozen meals.</strike> Now we serve only fresh dishes.</p>
+
+<!-- Line 7: Highlight -->
+<p><mark>Today’s Special Offer: Get 20% off on all pasta dishes!</mark></p>
+
+<!-- Line 8: Quotation -->
+<p><q>Good food is the foundation of genuine happiness.</q></p>
+
+<!-- Line 9: Indented Quotation -->
+<blockquote>
+    As Wambuma and team, we believe food brings people together.
+    Every meal tells a story of culture, flavor, and tradition.
+</blockquote>
+
     </div>
 
     <!-- Images Section -->
